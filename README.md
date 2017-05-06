@@ -1,2 +1,2 @@
-# how-to-flex
-flexbox styling
+# Flexbox cards
+
